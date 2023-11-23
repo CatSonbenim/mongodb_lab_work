@@ -2,4 +2,3 @@
 Laboratory work for mongoDB
 
 Authors: Mykytenko Veronika, Gotko Kateryna
-CHANGE!
