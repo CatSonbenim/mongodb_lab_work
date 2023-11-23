@@ -1,1 +1,2 @@
 This is test file) We changed that in cb1.
+Change from branch 2
